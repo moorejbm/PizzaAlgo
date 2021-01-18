@@ -8,5 +8,4 @@ Add delivery & billing info
 Review 
 Track order 
 Receive your pizza 
-Eat pizza 
-Schedual workout 
+Eat pizza
