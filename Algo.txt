@@ -1,0 +1,11 @@
+Select pizza restaurant
+Browse Menue
+Select you pizza 
+Add to card 
+Review you order 
+Place order 
+Add delivery & billing info 
+Review 
+Track order 
+Receive your pizza 
+Eat pizza 
