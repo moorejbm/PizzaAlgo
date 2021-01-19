@@ -1,7 +1,7 @@
 Select pizza restaurant
 Browse Menue
 Select you pizza 
-Add to card 
+Add to cart
 Review you order 
 Place order 
 Add delivery & billing info 
